@@ -29,19 +29,24 @@
         "ratio": 1.597
       }
     },
-    {
-      "key": "UC",
-      "name": "我的｜UC",
+     {
+      "key": "瓜子影视",
+      "name": "瓜子｜影视",
       "type": 3,
-      "api": "csp_PanUc",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
-      "ext": "./json/ucShare.json"
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   {
+      "key": "乐享影视",
+      "name": "乐享｜影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://114.66.55.28:8818/api.php/app/"
     },
     {
       "key": "夸克云盘",
