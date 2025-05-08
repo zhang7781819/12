@@ -62,6 +62,87 @@
       },
       "ext": "./json/quarkShare.json"
     },
+     {
+      "key": "小苹果弹幕",
+      "name": "苹果|1080",
+      "type": 3,
+      "api": "csp_Xpg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "天天弹幕",
+      "name": "天天|1080",
+      "type": 3,
+      "api": "csp_TianTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true,
+        "site": "aHR0cDovL3R0LnlzZHFqcy5jbg=="
+      }
+    },
+    {
+      "key": "文采",
+      "name": "文采|1080",
+      "type": 3,
+      "api": "csp_Jpys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "农民影视",
+      "name": "农民|1080",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "糯米弹幕",
+      "name": "糯米|1080",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "西瓜视频",
+      "name": "西瓜｜视频",
+      "type": 3,
+      "api": "csp_AmuXiguaV2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+     {
+      "key": "真心影视",
+      "name": "真心|1080",
+      "type": 3,
+      "api": "csp_WebGZ",
+      "searchable": 1,
+      "快速搜索": 1,
+      "filterable": 1
+    }，
     {
       "key": "百度云盘",
       "name": "我的｜百度",
