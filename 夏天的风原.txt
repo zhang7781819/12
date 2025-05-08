@@ -569,11 +569,6 @@
       "url": "https://jx.xmflv.cc/?url="
     }，
     {
-      "name": "虎斑",
-      "type": 0,
-      "url": " http://154.44.26.196/player/qu.php?v="
-    }，
-    {
       "名称": "88",
       "type": 0,
       "url": "https://cdn.zyc888.top/?url="
