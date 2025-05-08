@@ -567,6 +567,41 @@
       "name": "虾米蓝光",
       "type": 0,
       "url": "https://jx.xmflv.cc/?url="
+    }，
+    {
+      "name": "虎斑",
+      "type": 0,
+      "url": " http://154.44.26.196/player/qu.php?v="
+    }，
+    {
+      "名称": "88",
+      "type": 0,
+      "url": "https://cdn.zyc888.top/?url="
+    }，
+    {
+      "name": "80",
+      "type": 0,
+      "url": "https://www.8090g.cn/jiexi/?url="
+    }，
+    {
+      "name": "m3",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    }，
+    {
+      "name": "虾米",
+      "type": 0,
+      "url": "https://jx.xmflv.cc/?url="
+    }，
+    {
+      "name": "虾米2",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    }，
+    {
+      "name": "冰豆",
+      "type": 0,
+      "url": "https://bd.jx.cn/?url="
     }
   ],
   "lives": [
