@@ -1,5 +1,5 @@
 {
-  "spider": "./js/spider.jar",
+  "spider": "https://ghfast.top/https://raw.githubusercontent.com/zhang7781819/12/refs/heads/main/js/spider.jar",
   "wallpaper": "http://我不是.摸鱼儿.com/wallpaper/",
   "sites": [
     {
