@@ -1,21 +1,7 @@
 {
-  "spider": "./spider.jar",
+  "spider": "https://ghfast.top/https://raw.githubusercontent.com/zhang7781819/12/refs/heads/main/js/spider.jar",
   "wallpaper": "http://我不是.摸鱼儿.com/wallpaper/",
   "sites": [
-    {
-      "key": "夏夜",
-      "name": "本人没有任何软件APP",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
-    },
-    {
-      "key": "预告",
-      "name": "Q群1016555099",
-      "type": 3,
-      "api": "csp_DouBan",
-      "searchable": 0
-    },
     {
       "key": "配置中心",
       "name": "配置｜中心",
@@ -557,11 +543,6 @@
       "name": "解析聚合",
       "type": 3,
       "url": "Demo"
-    },
-    {
-      "name": "夏夜4k",
-      "type": 1,
-      "url": "http://8.155.50.80/xiaye.php?url="
     },
     {
       "name": "虾米蓝光",
